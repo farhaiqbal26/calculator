@@ -1,5 +1,9 @@
+# This function adds two numbers
+def add(x, y):
+    return x + y
 
-
+def subtract(x, y):
+    return x - y
 
 while True:
     # Take input from the user
